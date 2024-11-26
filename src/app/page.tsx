@@ -1,5 +1,4 @@
 import Footer from "@/components/Footer/Footer";
-import Header from "@/components/Header/Header";
 import CTA from "@/components/Sections/CTA";
 import Features from "@/components/Sections/Features";
 import Hero from "@/components/Sections/Hero";
